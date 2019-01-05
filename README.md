@@ -1,4 +1,4 @@
-# deploying_model_as_RESTful_webservice
+# Logistic Classifier Deployes as Rest API
 
 ## Files:
 1. iris_classification_model.ipynb : A simple Logistic regression model for Iris dataset
