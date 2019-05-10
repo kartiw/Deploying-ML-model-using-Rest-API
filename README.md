@@ -8,6 +8,6 @@
 ## Execution order:
 
 1. Run the app.py to start the webservice.
-2. Use calling_api.ipynb to call the webservice. Chnage the 'features' list to predict the flower type. The featues list takes 4 values.
+2. Use calling_api.ipynb to call the webservice. Change the 'features' list to predict the flower type. The featues list takes 4 values.
 
 Note: If you wish to use a different model or retrain the model use the iris_classification_model.ipynb to do so.
